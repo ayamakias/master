@@ -7,6 +7,7 @@
 * オンラインでトランスパイルしてくれるサービス：https://babeljs.io/repl/
 
 ```
+# ES6のコード
 const obj = (() => {
   return {
     method() {
